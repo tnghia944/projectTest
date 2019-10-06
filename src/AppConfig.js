@@ -1,0 +1,11 @@
+export default {
+    ACCOUNT : 'ACCOUNT',
+    CALENDAR : 'CALENDAR',
+    ADDRESS : 'ADDRESS',
+    PHONE : 'PHONE',
+    LOCK:'LOCK',
+    //image
+    UPLOAD_IMAGE_SUCCESS:'SUCCESS',
+    TIME_INTERVAL:60000,
+    TIME_OUT_REQUEST: 1000 * 30,
+}
